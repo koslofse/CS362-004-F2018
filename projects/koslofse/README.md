@@ -1,1 +1,1 @@
-name: Eli Koslofsky | onid: koslofse
+This is my assignment-1 submission!

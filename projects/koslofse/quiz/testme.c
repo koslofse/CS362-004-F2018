@@ -23,7 +23,7 @@ char *inputString()
 
   // generate random string using chars in array
   int i;
-  for (int i=0; i<6; i++){
+  for (i=0; i<6; i++){
     randStr[i] = (char)charArr[(rand() % 6)];
   }
   return randStr;

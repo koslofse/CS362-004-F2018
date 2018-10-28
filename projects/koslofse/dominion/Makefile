@@ -66,7 +66,7 @@ unittestresults:
 		./"cardtest$$number" >> unittestresults.out; \
 		echo "" >> unittestresults.out; \
 	done
-	gcov dominion.c -b >> unittestresults.out; \
+	gcov dominion.c -b -f >> unittestresults.out; \
 
 
 
